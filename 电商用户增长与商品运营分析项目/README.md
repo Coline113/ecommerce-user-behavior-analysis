@@ -93,7 +93,7 @@ Data Visualization (Python)
 分析用户浏览、收藏、加购和购买行为分布，了解用户整体活跃情况。
 
 
-![User Behavior Analysis](images/behavior_analysis.png)
+![User Behavior Analysis](Images/behavior_analysis.png)
 
 
 **Insight**
@@ -129,7 +129,7 @@ Buy (Purchase)
 通过购买漏斗分析用户从浏览到购买过程中的转化情况，识别用户流失环节。
 
 
-![Purchase Funnel Analysis](images/funnel_analysis.png)
+![Purchase Funnel Analysis](Images/funnel_analysis.png)
 
 
 **Insight**
@@ -161,7 +161,7 @@ Purchase Users / View Users × 100%
 ```
 
 
-![Category Conversion Analysis](images/category_conversion_rate_top10.png)
+![Category Conversion Analysis](Images/category_conversion_rate_top10.png)
 
 
 **Insight**
@@ -193,7 +193,7 @@ RFM指标：
 - Churn Risk Users（流失风险用户）
 
 
-![Customer Segmentation](images/user_value_segmentation.png)
+![Customer Segmentation](Images/user_value_segmentation.png)
 
 
 **Insight**
@@ -231,7 +231,7 @@ ecommerce-user-behavior-analysis
 ├── Python
 │   └── Ecommerce_User_Analytics_Project.ipynb
 │
-├── images
+├── Images
 │   ├── behavior_analysis.png
 │   ├── funnel_analysis.png
 │   ├── category_conversion_rate_top10.png
